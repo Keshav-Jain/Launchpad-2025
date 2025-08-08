@@ -1,4 +1,4 @@
-**About me**
+About me
 --------
 Hey.I am Keshav Jain
 A Btech Student in Computer Science Engineering at ACE Engineering College.
@@ -6,13 +6,13 @@ I’m a budding developer with a strong interest in data analysis, backend devel
 ------------------------------------------
 
 
-**Work Experience**
+Work Experience
 ---------------
 Intern – ThinkPalm Technologies (June 2025 – July 2025)
 
 Developed a real-time sentiment analysis web app using Flask, Python, NLTK (VADER), and Reddit API.
 
-**Public Profiles**
+Public Profiles
 ---------------
 **Github**:https://github.com/Keshav-Jain
 **LinkedIn**:https://www.linkedin.com/in/keshav-jain-382b62295
