@@ -1,8 +1,7 @@
 **About me**
 --------
 Hey.I am Keshav Jain
-A Btech Student in Computer Science Engineering at ACE Engineering College
-
+A Btech Student in Computer Science Engineering at ACE Engineering College.
 I’m a budding developer with a strong interest in data analysis, backend development, process automation, and a growing passion for AI and machine learning. I enjoy exploring patterns in data, building efficient systems, and I’m eager to expand my expertise in emerging technologies while contributing to impactful solutions in the tech industry.
 ------------------------------------------
 
